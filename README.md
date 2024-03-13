@@ -1,4 +1,4 @@
-# netsiden
+# nettsiden
  nettside for å loggføre hvilke ting som(raspberry pi, labquest, microbit, etc..) en skole eller kontorbygg har. du kan loggføre hvilke ting du har via å legge til flere, slette de eller redigere de på nettsiden. du må være logget inn for å gjøre dette.
  logg inn med brukernavn: testbru, passord: Passord1 for admin brukeren.
 
